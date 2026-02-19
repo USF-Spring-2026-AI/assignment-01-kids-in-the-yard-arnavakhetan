@@ -22,4 +22,4 @@ Note: Make sure you do not use any external/in-built libraries (with exceptions 
 
 5. What changes would you refuse to make?
 
-   
+   I refuse the changes related to the addition of extra helper methods as they have no use. I also refuse to make the descendants, exclusion of marriage_rate and children-count changes because these defy what the Assignment pdf asks to do. While, I said I could make changes to the duplicates and decades counting, I think the LLM's method is too complicated and could potentially mess up some other code that is there linking to duplicate and decade calculation.
